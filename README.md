@@ -7,6 +7,15 @@
 
 ## Lessons
 
+### Aug 5th, 2015
+
+Classwork
+- [Codecademy - Ruby Course](https://www.codecademy.com/en/tracks/ruby): upto and including "Methods, Blocks & Sorting"
+- A.S.K. assignment
+
+Homework
+- finish Class work
+
 ### Aug 1st, 2015
 Note: Stretch challenges are if you have more time and want a larger challenge
 - [Github](https://github.com/blue1647ruby/Github)
