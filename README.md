@@ -7,6 +7,8 @@
 
 ## Lessons
 
+### Aug 8th, 2015
+
 Classwork
 - [Codecademy - Ruby Course](https://www.codecademy.com/en/tracks/ruby): upto and including "The Refactor Factory"
 
