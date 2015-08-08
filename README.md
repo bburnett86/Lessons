@@ -7,6 +7,12 @@
 
 ## Lessons
 
+Classwork
+- [Codecademy - Ruby Course](https://www.codecademy.com/en/tracks/ruby): upto and including "The Refactor Factory"
+
+Homework
+- finish Class work
+
 ### Aug 5th, 2015
 
 Classwork
