@@ -7,6 +7,15 @@
 
 ## Lessons
 
+### Aug 12th, 2015
+
+Classwork
+- [Anagrams](https://github.com/blue1647ruby/Anagrams)
+- [Refactor](https://github.com/blue1647ruby/Refactor)
+
+Homework
+- [Homework Challenge](https://github.com/blue1647ruby/Homework)
+
 ### Aug 8th, 2015
 
 Classwork
